@@ -1,6 +1,6 @@
-#names
+
 import re
-from operator import truediv
+
 
 
 def name_checker(name)
